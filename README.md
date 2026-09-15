@@ -65,7 +65,6 @@ I enjoy transforming ideas into practical, intelligent solutions that solve real
 ### 📊 Data Analytics & Visualization
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
   <img src="https://img.shields.io/badge/Statistics-607D8B?style=for-the-badge" alt="Statistics"/>
@@ -189,16 +188,6 @@ Exploring new ideas in Artificial Intelligence, Machine Learning, Data Analytics
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanshree017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning & Deep Learning
-- Generative AI and LLM Applications
-- Data Analytics & Business Intelligence
-- AI Application Development
-- Cloud Technologies
 
 ---
 
