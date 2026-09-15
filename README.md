@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Pastel Header Banner using #FFD3E9 and #D3FFE9 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD3E9&height=200&section=header&text=👋%20Hi,%20I'm%20Dhanshree%20Gupta&fontSize=35&fontColor=2D3748&animation=fadeIn" width="100%" alt="Header Banner" />
+<!-- Pastel Header Banner using #D3E9FF -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D3E9FF&height=200&section=header&text=👋%20Hi,%20I'm%20Dhanshree%20Gupta&fontSize=35&fontColor=2D3748&animation=fadeIn" width="100%" alt="Header Banner" />
 
 ### 🎓 M.Sc. Artificial Intelligence Graduate | AI/ML Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D3FFE9&center=true&vCenter=true&width=650&lines=AI%2FML+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Intelligent+%26+Practical+Solutions;Turning+Ideas+Into+Impactful+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=AI%2FML+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Intelligent+%26+Practical+Solutions;Turning+Ideas+Into+Impactful+Projects" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/Dhanshree017">
-    <img src="https://img.shields.io/badge/GitHub-Dhanshree017-FFD3E9?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Dhanshree017-D3E9FF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/dhanshree-gupta-79a38a34a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-D3FFE9?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:dhanshreegupta017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FFD3E9?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D3E9FF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
 </p>
 
@@ -56,9 +56,9 @@ I enjoy transforming ideas into practical, intelligent solutions that solve real
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FFD3E9?style=for-the-badge&logoColor=181717" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-D3E9FF?style=for-the-badge&logoColor=181717" alt="Machine Learning"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-D3FFE9?style=for-the-badge&logoColor=181717" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/NLP-FFD3E9?style=for-the-badge&logoColor=181717" alt="NLP"/>
+  <img src="https://img.shields.io/badge/NLP-D3E9FF?style=for-the-badge&logoColor=181717" alt="NLP"/>
   <img src="https://img.shields.io/badge/Generative%20AI-D3FFE9?style=for-the-badge&logoColor=181717" alt="Generative AI"/>
 </p>
 
@@ -67,7 +67,7 @@ I enjoy transforming ideas into practical, intelligent solutions that solve real
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
-  <img src="https://img.shields.io/badge/Statistics-FFD3E9?style=for-the-badge&logoColor=181717" alt="Statistics"/>
+  <img src="https://img.shields.io/badge/Statistics-D3E9FF?style=for-the-badge&logoColor=181717" alt="Statistics"/>
 </p>
 
 ### ⚙️ Development & Cloud
@@ -92,7 +92,7 @@ I enjoy transforming ideas into practical, intelligent solutions that solve real
 
 <div align="center">
   <a href="https://github.com/Dhanshree017/AI-Grading-System">
-    <img src="https://img.shields.io/badge/View%20Project-FFD3E9?style=for-the-badge&logo=github&logoColor=181717" alt="View GIBO project"/>
+    <img src="https://img.shields.io/badge/View%20Project-D3E9FF?style=for-the-badge&logo=github&logoColor=181717" alt="View GIBO project"/>
   </a>
 </div>
 
@@ -164,7 +164,7 @@ Interactive Power BI dashboard designed to analyze mobile sales performance and 
 
 <div align="center">
   <a href="https://github.com/Dhanshree017/Amul-Dairy-Operations-Revenue-Intelligence-Hub">
-    <img src="https://img.shields.io/badge/View%20Project-FFD3E9?style=for-the-badge&logo=github&logoColor=181717" alt="View Amul Dairy Operations & Revenue Intelligence Hub project"/>
+    <img src="https://img.shields.io/badge/View%20Project-D3E9FF?style=for-the-badge&logo=github&logoColor=181717" alt="View Amul Dairy Operations & Revenue Intelligence Hub project"/>
   </a>
 </div>
 
@@ -199,7 +199,7 @@ I'm always open to learning, collaborating, and discussing AI/ML projects.
 </a>
 
 <a href="mailto:dhanshreegupta017@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-dhanshreegupta017-FFD3E9?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-dhanshreegupta017-D3E9FF?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <a href="https://github.com/Dhanshree017">
