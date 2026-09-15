@@ -133,6 +133,7 @@ Deep learning-based plant disease detection system with remedy recommendations.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -159,35 +160,29 @@ Interactive Power BI dashboard designed to analyze mobile sales performance and 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">✨ More Projects Coming Soon</h3>
+<h3 align="center">🥛 Amul Dairy Operations & Revenue Intelligence Hub</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Always%20Learning-6C63FF?style=for-the-badge" alt="Always learning"/>
+  <a href="https://github.com/Dhanshree017/Amul-Dairy-Operations-Revenue-Intelligence-Hub">
+    <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github" alt="View Amul Dairy Operations & Revenue Intelligence Hub project"/>
+  </a>
 </div>
 
 <br/>
 
-Exploring new ideas in Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI.
+Data analytics and business intelligence project focused on dairy operations, revenue analysis, and actionable business insights.
+
+**Highlights:**
+- Dairy operations analysis
+- Revenue intelligence
+- Business performance insights
+- Data-driven decision making
+
+**Tech:** Python • Power BI • Excel • Data Analytics
 
 </td>
 </tr>
 </table>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanshree017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhanshree's GitHub Stats" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanshree017&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanshree017&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 
 ---
 
