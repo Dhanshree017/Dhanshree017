@@ -26,8 +26,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Dhanshree Gupta**, an M.Sc. Artificial Intelligence graduate passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
-
+Hello! I'm **Dhanshree Gupta**
 I enjoy transforming ideas into practical, intelligent solutions that solve real-world problems. My interests include building AI-powered applications, developing machine learning models, analyzing data, and exploring Generative AI.
 
 - 🎓 M.Sc. Artificial Intelligence Graduate
