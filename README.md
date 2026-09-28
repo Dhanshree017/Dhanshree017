@@ -3,7 +3,7 @@
 <!-- Pastel Header Banner using #D3E9FF -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D3E9FF&height=200&section=header&text=👋%20Hi,%20I'm%20Dhanshree%20Gupta&fontSize=35&fontColor=2D3748&animation=fadeIn" width="100%" alt="Header Banner" />
 
-### 🎓 M.Sc. Artificial Intelligence Graduate | AI/ML Developer
+### 🎓 I love researching, studying, and building AI solutions that make a real difference in the world.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=AI%2FML+Developer;Python+%7C+SQL+%7C+Machine+Learning;Building+Intelligent+%26+Practical+Solutions;Turning+Ideas+Into+Impactful+Projects" alt="Typing SVG" />
 
