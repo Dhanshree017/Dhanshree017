@@ -19,7 +19,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanshree017&label=Profile%20Views&color=D3FFE9&style=flat" alt="Profile views"/>
 
 </div>
 
