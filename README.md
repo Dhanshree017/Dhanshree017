@@ -28,16 +28,21 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Dhanshree Gupta**
-I enjoy transforming ideas into practical, intelligent solutions that solve real-world problems. My interests include building AI-powered applications, developing machine learning models, analyzing data, and exploring Generative AI.
+Hello! I'm **Dhanshree Gupta** 👋
 
-* 🎓 M.Sc. Artificial Intelligence Graduate
-* 🧠 Passionate about AI, Machine Learning & Generative AI
-* 🐍 Building projects with Python and SQL
-* 📊 Interested in Data Analytics, Power BI & Advanced Excel
-* 🚀 Focused on continuous learning and practical innovation
+My fascination with robots and Artificial Intelligence started when I was a child. What began as curiosity gradually turned into a deeper interest during my undergraduate studies, when I got my first opportunity to explore AI and realized that this was the field I wanted to build my career in.
 
-> *"Turning data and ideas into intelligent solutions."*
+For me, AI is more than just building intelligent systems. It's about immersing myself in the process of creation — observing real-world problems, questioning how things work, exploring possibilities, and spending hours thinking through ideas until I find a way to bring them to life.
+
+I love turning my own ideas into practical solutions, experimenting with new approaches, and discovering how technology can make a meaningful difference in the world.
+
+* 🤖 A childhood fascination with robots that grew into a career in AI
+* 🧠 Drawn to the thinking, experimentation, and creativity behind intelligent systems
+* 💡 Always looking at real-world problems as opportunities to build something meaningful
+* 🐍 Exploring my ideas through Python, SQL, Machine Learning, and Generative AI
+* 🔍 The most exciting part of building is turning a thought into something that actually works
+
+> *"For me, the magic of AI lies not just in what we build, but in the ideas, curiosity, and countless hours of thinking that bring it to life."*
 
 ---
 
@@ -110,6 +115,7 @@ AI-powered descriptive answer evaluation and personalized learning system.
 **Tech:** Python • Machine Learning • NLP • Generative AI
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🌿 Plant Disease Detection</h3>
@@ -161,6 +167,7 @@ Interactive Power BI dashboard designed to analyze mobile sales performance and 
 **Tech:** Power BI • Excel • Data Analytics
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🥛 Amul Dairy Operations & Revenue Intelligence Hub</h3>
