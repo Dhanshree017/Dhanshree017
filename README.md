@@ -96,7 +96,7 @@ I love turning my own ideas into practical solutions, experimenting with new app
 <h3 align="center">🧠 GIBO – Grade & Guide</h3>
 
 <div align="center">
-  <a href="https://github.com/Dhanshree017/AI-Grading-System">
+  <a href="https://github.com/Dhanshree017/Grade-Guide-With-GIBO-">
     <img src="https://img.shields.io/badge/View%20Project-D3E9FF?style=for-the-badge&logo=github&logoColor=181717" alt="View GIBO project"/>
   </a>
 </div>
